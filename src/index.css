@@ -1,0 +1,46 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+
+.btn-danger {
+    background-color: #E71800 !important;
+    border: none !important;
+}
+
+.bg-image {
+    background: url('../src/assets/hero.png');
+    height: 551px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-size: 5vmin !important;
+    font-weight: 600 !important;
+}
+
+h4 {
+    font-size: 4vmin !important;
+    font-weight: 600 !important;
+}
+
+.bg-red {
+    background-color: #E71800 !important;
+    width: 180px;
+    height: 6px;
+    border-radius: 8px;
+    /* margin: 0 auto; */
+}
+
+.text-danger {
+    color: #E71800 !important;
+}
+
+.cover {
+    background: url('../src/assets/cover.png');
+    height: 196px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

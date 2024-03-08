@@ -1,0 +1,16 @@
+.navbar .container .nav-link {
+    color: #000 !important;
+}
+
+.navbar .container .active {
+    color: #E71800 !important;
+}
+
+.navbar .container ul li a:hover {
+    color: #e71800 !important;
+}
+
+.btn:hover {
+    opacity: .8;
+    transition: all 10s;
+}
