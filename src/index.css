@@ -16,13 +16,11 @@
 }
 
 h2 {
-    font-size: 5vmin !important;
-    font-weight: 600 !important;
+    font-weight: bolder !important;
 }
 
 h4 {
-    font-size: 4vmin !important;
-    font-weight: 600 !important;
+    font-weight: bolder !important;
 }
 
 .bg-red {

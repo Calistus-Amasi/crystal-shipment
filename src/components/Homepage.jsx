@@ -53,12 +53,12 @@ function Homepage() {
         <>
             {/* hero */}
             <div className="bg-image">
-                <div className="container text-light ">
+                <div className="container text-light pt-4">
                     <div className="pt-5 text-center" data-aos="bounce-in">
-                        <h1 className='pt-5' style={{ fontSize: '8vmin', fontWeight: 'bold', marginTop: '60px', lineHeight: '1.75' }}>
+                        <h1 style={{ fontSize: '7.5vmin', fontWeight: 'bold', marginTop: '60px' }}>
                             Easy & Quick Cargo  Shipping Services
                         </h1>
-                        <p style={{ fontSize: '4vmin', fontWeight: '700px' }}>Book low cost sea freight shipping services.
+                        <p style={{ fontSize: '3.5vmin' }}>Book low cost sea freight shipping services.
                             Get an instant quote.</p>
                         <a href="/tracking" className="btn btn-danger">Track Goods Here</a>
                     </div>
@@ -77,9 +77,9 @@ function Homepage() {
                         <img src={About} className="rounded img-fluid mb-5" alt="about" />
                     </div>
                     <div className="col-md-6" data-aos="fade-up">
-                        <p className='text-danger'>TRANSPORTATION COMPANY</p>
-                        <h2 style={{ lineHeight: '1.75' }}>We Provide Full Range Logistics Solution</h2>
-                        <p style={{ lineHeight: '1.75' }}>We strongly believe that pursuing all of these goals is in our interest and in the interest of all of our stakeholders are us customers, employees, investors and the planet as a whole. We add value to cargo people’s interaction with us, with excellent services or products. Engaging our employees and nurture investment on the stock holds market we show concern , by engaging our employees and nurture investment on the stock holds market we show concern.</p>
+                        <span className='text-danger'>TRANSPORTATION COMPANY</span>
+                        <h2>We Provide Full Range Logistics Solution</h2>
+                        <p>We strongly believe that pursuing all of these goals is in our interest and in the interest of all of our stakeholders and our  customers, employees, investors and the planet as a whole. We add value to cargo people’s interaction with us, with excellent services or products. Engaging our employees and nurture investment on the stock holds market we show concern , by engaging our employees and nurture investment on the stock holds market we show concern.</p>
                         <a href="/service" className="btn btn-danger">Learn More</a>
                     </div>
                 </div>
@@ -150,7 +150,7 @@ function Homepage() {
                             </div>
                             <div className="flex-grow-1 ms-2">
                                 <h4>Mobile Shipment Tracking</h4>
-                                <p>We Offers intelligent concepts for road and tail and well as complex special transport services</p>
+                                <p>We offers intelligent concepts for road and tail and well as complex special transport services</p>
                             </div>
                         </div>
                         <div className="d-inline-flex mt-3">

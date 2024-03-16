@@ -21,7 +21,7 @@ function Service() {
     return (
         <>
             <div className="cover">
-                <div className="text-center pt-3 text-light">
+                <div className="text-center pt-3 text-light">``
                     <h2 className="pt-5">Service</h2>
                     <p>Home <i className="fas fa-arrow-right ms-3 me-3"></i> Service</p>
                 </div>
